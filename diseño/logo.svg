@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="558.5625"
-   height="1243.3438"
+   width="555.97998"
+   height="1424.141"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.27161906"
-     inkscape:cx="718.43398"
-     inkscape:cy="1140.9157"
+     inkscape:zoom="1.3139211"
+     inkscape:cx="849.97026"
+     inkscape:cy="207.63973"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -61,7 +61,15 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(616.45874,14.756607)">
+     transform="translate(615.77063,202.28656)">
+    <rect
+       ry="0"
+       y="-202.28656"
+       x="-615.77063"
+       height="1424.141"
+       width="1070.7244"
+       id="rect4342"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <text
        xml:space="preserve"
        style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aldrich;-inkscape-font-specification:Aldrich"
@@ -76,7 +84,8 @@
          sodipodi:role="line"
          x="-417.9317"
          y="616.91296"
-         id="tspan4316">ROSARIO</tspan></text>
+         id="tspan4316"
+         style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dfb129;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aldrich;-inkscape-font-specification:Aldrich">ROSARIO</tspan></text>
     <rect
        style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3029"
@@ -153,7 +162,7 @@
        style="fill:none;stroke:#47a3da;stroke-width:4.05565739;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
        xml:space="preserve"
-       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aldrich;-inkscape-font-specification:Aldrich"
+       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dfb129;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aldrich;-inkscape-font-specification:Aldrich"
        x="-290.79715"
        y="818.63428"
        id="text4190"
@@ -165,7 +174,7 @@
          id="tspan4194"
          sodipodi:role="line"
          x="-290.79715"
-         y="855.13898">Rosario</tspan></text>
+         y="855.13898">ROSARIO</tspan></text>
     <rect
        style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4198"
@@ -256,7 +265,7 @@
        d="m -332.09873,789.12423 -38.71897,22.9629 26.64969,23.00084 -39.73933,23.8927"
        style="fill:none;stroke:#47a3da;stroke-width:4.29056501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
-       transform="matrix(0.70505051,0,0,0.70505051,-272.86277,-334.86171)"
+       transform="matrix(0.70505051,0,0,0.70505051,-272.86277,-574.86171)"
        sodipodi:open="true"
        sodipodi:end="6.2621117"
        sodipodi:start="0"
@@ -280,9 +289,9 @@
        sodipodi:start="0"
        sodipodi:end="6.2621117"
        sodipodi:open="true"
-       transform="matrix(1.0901991,0,0,0.9149885,-676.80718,-259.93264)" />
+       transform="matrix(1.0901991,0,0,0.9149885,-676.80718,-499.93264)" />
     <path
-       transform="matrix(1.0901991,0,0,0.9149885,-712.8621,-238.14539)"
+       transform="matrix(1.0901991,0,0,0.9149885,-712.8621,-478.14539)"
        sodipodi:open="true"
        sodipodi:end="6.2621117"
        sodipodi:start="0"
@@ -295,7 +304,7 @@
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        sodipodi:type="arc" />
     <path
-       transform="matrix(1.0901991,0,0,0.9149885,-701.3231,-281.71988)"
+       transform="matrix(1.0901991,0,0,0.9149885,-701.3231,-521.71988)"
        sodipodi:open="true"
        sodipodi:end="6.2621117"
        sodipodi:start="0"
@@ -319,10 +328,10 @@
        sodipodi:start="0"
        sodipodi:end="6.2621117"
        sodipodi:open="true"
-       transform="matrix(1.0901991,0,0,0.9149885,-665.26818,-303.50712)" />
+       transform="matrix(1.0901991,0,0,0.9149885,-665.26818,-543.50712)" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:3.1609621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m -453.58685,103.40668 -36.21997,21.48081 24.92966,21.51631 -37.17447,22.35062"
+       d="m -453.58685,-136.59332 -36.21997,21.48081 24.92966,21.51631 -37.17447,22.35062"
        id="path4300"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -330,35 +339,35 @@
        xml:space="preserve"
        style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aldrich;-inkscape-font-specification:Aldrich"
        x="-303.72012"
-       y="128.24231"
+       y="-111.75769"
        id="text4302"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          x="-303.72012"
-         y="128.24231"
+         y="-111.75769"
          id="tspan4304">PyCon</tspan><tspan
          sodipodi:role="line"
          x="-303.72012"
-         y="164.74701"
+         y="-75.252991"
          id="tspan4306">Ar</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text4308"
-       y="128.24231"
+       y="-111.75769"
        x="-285.14667"
-       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aldrich;-inkscape-font-specification:Aldrich"
+       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dfb129;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aldrich;-inkscape-font-specification:Aldrich"
        xml:space="preserve"><tspan
          id="tspan4310"
-         y="128.24231"
+         y="-111.75769"
          x="-285.14667"
          sodipodi:role="line">2013</tspan><tspan
-         y="164.74701"
+         y="-75.252991"
          x="-285.14667"
          sodipodi:role="line"
-         id="tspan4312">Rosario</tspan></text>
+         id="tspan4312">ROSARIO</tspan></text>
     <path
        style="fill:none;stroke:#47a3da;stroke-width:2.46406698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m -295.1015,102.6914 0,62.6065"
+       d="m -295.1015,-137.3086 0,62.6065"
        id="path4314"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -367,7 +376,7 @@
        id="text3074"
        y="1078.6343"
        x="-294.79715"
-       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aldrich;-inkscape-font-specification:Aldrich"
+       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dfb129;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aldrich;-inkscape-font-specification:Aldrich"
        xml:space="preserve"><tspan
          id="tspan3076"
          y="1078.6343"
@@ -376,7 +385,7 @@
          y="1115.1389"
          x="-294.79715"
          sodipodi:role="line"
-         id="tspan3078">Rosario</tspan></text>
+         id="tspan3078">ROSARIO</tspan></text>
     <rect
        ry="14.624764"
        y="1038.4209"
@@ -547,37 +556,750 @@
        sodipodi:linespacing="100%"
        id="text3943"
        y="359.30951"
-       x="-420.80246"
+       x="-450.80246"
        style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aldrich;-inkscape-font-specification:Aldrich"
        xml:space="preserve"><tspan
          id="tspan3945"
          y="359.30951"
-         x="-420.80246"
+         x="-450.80246"
          sodipodi:role="line">PyCon</tspan><tspan
          id="tspan3947"
          y="395.81421"
-         x="-420.80246"
+         x="-450.80246"
          sodipodi:role="line">Ar</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aldrich;-inkscape-font-specification:Aldrich"
-       x="-402.229"
+       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dfb129;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aldrich;-inkscape-font-specification:Aldrich"
+       x="-432.229"
        y="359.30951"
        id="text3949"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="-402.229"
+         x="-432.229"
          y="359.30951"
          id="tspan3951">2013</tspan><tspan
          id="tspan3953"
          sodipodi:role="line"
-         x="-402.229"
-         y="395.81421">Rosario</tspan></text>
+         x="-432.229"
+         y="395.81421">ROSARIO</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path3955"
-       d="m -412.18384,333.7586 0,62.6065"
+       d="m -442.18384,333.7586 0,62.6065"
        style="fill:none;stroke:#47a3da;stroke-width:2.46406698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4244"
+       width="1148.261"
+       height="221.41475"
+       x="-647.57697"
+       y="24.436863"
+       ry="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#47a3da;fill-opacity:1;stroke:none"
+       id="path4218"
+       sodipodi:cx="-295.81897"
+       sodipodi:cy="664.59949"
+       sodipodi:rx="66.35939"
+       sodipodi:ry="66.35939"
+       d="m -229.45958,664.59949 a 66.35939,66.35939 0 1 1 -0.0147,-1.39833"
+       sodipodi:start="0"
+       sodipodi:end="6.2621117"
+       sodipodi:open="true"
+       transform="matrix(0.70505051,0,0,0.70505051,-272.86277,-330.86171)" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m -501.39624,162.99339 c -6.64594,0 -12.17403,3.16461 -13.5,7.40625 4.70606,4.81853 10.43124,8.62548 16.84375,11.0625 6.01845,-1.01484 10.46875,-4.69584 10.46875,-9.09375 l 0,-0.21875 c -0.15848,-5.10238 -6.29154,-9.15625 -13.8125,-9.15625 z"
+       id="path4246"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="matrix(1.0901991,0,0,0.9149885,-676.80718,-255.93264)"
+       sodipodi:open="true"
+       sodipodi:end="6.2621117"
+       sodipodi:start="0"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:ry="10.251702"
+       sodipodi:rx="12.679736"
+       sodipodi:cy="444.27438"
+       sodipodi:cx="193.97299"
+       id="path4220"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path4224"
+       sodipodi:cx="193.97299"
+       sodipodi:cy="444.27438"
+       sodipodi:rx="12.679736"
+       sodipodi:ry="10.251702"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:start="0"
+       sodipodi:end="6.2621117"
+       sodipodi:open="true"
+       transform="matrix(1.0901991,0,0,0.9149885,-701.3231,-277.71988)" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m -456.92749,97.86839 c -6.12315,0.96417 -10.6875,4.6767 -10.6875,9.125 0,5.18054 6.17803,9.375 13.8125,9.375 4.83222,0 9.0913,-1.67 11.5625,-4.21875 -3.77953,-5.78346 -8.80352,-10.65691 -14.6875,-14.28125 z"
+       id="path4226"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4228"
+       d="m -453.58685,107.40668 -36.21997,21.48081 24.92966,21.51631 -37.17447,22.35062"
+       style="fill:none;stroke:#ffffff;stroke-width:3.1609621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text4230"
+       y="132.24231"
+       x="-303.72012"
+       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aldrich;-inkscape-font-specification:Aldrich"
+       xml:space="preserve"><tspan
+         id="tspan4232"
+         y="132.24231"
+         x="-303.72012"
+         sodipodi:role="line">PyCon</tspan><tspan
+         id="tspan4234"
+         y="168.74701"
+         x="-303.72012"
+         sodipodi:role="line">Ar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dfb129;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Aldrich;-inkscape-font-specification:Aldrich"
+       x="-285.14667"
+       y="132.24231"
+       id="text4236"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="-285.14667"
+         y="132.24231"
+         id="tspan4238">2013</tspan><tspan
+         id="tspan4240"
+         sodipodi:role="line"
+         x="-285.14667"
+         y="168.74701">ROSARIO</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4242"
+       d="m -295.1015,106.6914 0,62.6065"
+       style="fill:#ffffff;stroke:#47a3da;stroke-width:2.46406698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text3118"
+       y="580.40826"
+       x="122.0683"
+       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat"
+       xml:space="preserve"><tspan
+         style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dfb129;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Slim;-inkscape-font-specification:Nova Slim"
+         id="tspan3122"
+         y="580.40826"
+         x="122.0683"
+         sodipodi:role="line"><tspan
+   id="tspan4059"
+   style="fill:#47a3da;font-family:Nova Flat;-inkscape-font-specification:Nova Flat">PyConAr 2013</tspan></tspan><tspan
+         style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dfb129;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Slim;-inkscape-font-specification:Nova Slim"
+         y="616.91296"
+         x="122.0683"
+         sodipodi:role="line"
+         id="tspan4061">ROSARIO</tspan></text>
+    <rect
+       ry="13.824061"
+       y="543.00122"
+       x="7.3374023"
+       height="85.758347"
+       width="101.13256"
+       id="rect3124"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3126"
+       width="92.291191"
+       height="78.261063"
+       x="11.758003"
+       y="546.74988"
+       ry="9.9694672" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06364703;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3128"
+       sodipodi:cx="193.97299"
+       sodipodi:cy="444.27438"
+       sodipodi:rx="12.679736"
+       sodipodi:ry="10.251702"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:start="0"
+       sodipodi:end="6.2621117"
+       sodipodi:open="true"
+       transform="matrix(1.1016117,0,0,0.92456693,-143.61087,185.97571)" />
+    <path
+       transform="matrix(1.1016117,0,0,0.92456693,-180.04323,207.99102)"
+       sodipodi:open="true"
+       sodipodi:end="6.2621117"
+       sodipodi:start="0"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:ry="10.251702"
+       sodipodi:rx="12.679736"
+       sodipodi:cy="444.27438"
+       sodipodi:cx="193.97299"
+       id="path3130"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06364703;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(1.1016117,0,0,0.92456693,-168.38341,163.9604)"
+       sodipodi:open="true"
+       sodipodi:end="6.2621117"
+       sodipodi:start="0"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:ry="10.251702"
+       sodipodi:rx="12.679736"
+       sodipodi:cy="444.27438"
+       sodipodi:cx="193.97299"
+       id="path3132"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06364703;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06364703;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3134"
+       sodipodi:cx="193.97299"
+       sodipodi:cy="444.27438"
+       sodipodi:rx="12.679736"
+       sodipodi:ry="10.251702"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:start="0"
+       sodipodi:end="6.2621117"
+       sodipodi:open="true"
+       transform="matrix(1.1016117,0,0,0.92456693,-131.95107,141.94507)" />
+    <path
+       style="fill:none;stroke:#47a3da;stroke-width:4.05565739;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 81.9462,553.11858 45.34709,574.82426 70.53771,596.56581 32.9741,619.1504"
+       id="path3136"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text3138"
+       y="818.63428"
+       x="245.20285"
+       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dfb129;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Slim;-inkscape-font-specification:Nova Slim"
+       xml:space="preserve"><tspan
+         id="tspan3140"
+         y="818.63428"
+         x="245.20285"
+         sodipodi:role="line">2013</tspan><tspan
+         y="855.13898"
+         x="245.20285"
+         sodipodi:role="line"
+         id="tspan3142">ROSARIO</tspan></text>
+    <rect
+       ry="14.624764"
+       y="778.4209"
+       x="-17.568787"
+       height="90.725548"
+       width="253.53008"
+       id="rect3144"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-size:36.50469589000000070px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Nova Flat;-inkscape-font-specification:Nova Flat"
+       x="117.74567"
+       y="818.63428"
+       id="text3146"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="117.74567"
+         y="818.63428"
+         id="tspan3148">PyCon</tspan><tspan
+         sodipodi:role="line"
+         x="117.74567"
+         y="855.13898"
+         id="tspan3150">Ar</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3152"
+       width="97.636787"
+       height="82.794022"
+       x="133.64767"
+       y="782.3866"
+       ry="10.546908" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06364703;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3154"
+       sodipodi:cx="193.97299"
+       sodipodi:cy="444.27438"
+       sodipodi:rx="12.679736"
+       sodipodi:ry="10.251702"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:start="0"
+       sodipodi:end="6.2621117"
+       sodipodi:open="true"
+       transform="matrix(1.1654181,0,0,0.97811874,-30.72028,400.71608)" />
+    <path
+       transform="matrix(1.1654181,0,0,0.97811874,-69.26284,424.00654)"
+       sodipodi:open="true"
+       sodipodi:end="6.2621117"
+       sodipodi:start="0"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:ry="10.251702"
+       sodipodi:rx="12.679736"
+       sodipodi:cy="444.27438"
+       sodipodi:cx="193.97299"
+       id="path3156"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06364703;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(1.1654181,0,0,0.97811874,-56.92768,377.42562)"
+       sodipodi:open="true"
+       sodipodi:end="6.2621117"
+       sodipodi:start="0"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:ry="10.251702"
+       sodipodi:rx="12.679736"
+       sodipodi:cy="444.27438"
+       sodipodi:cx="193.97299"
+       id="path3158"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06364703;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06364703;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3160"
+       sodipodi:cx="193.97299"
+       sodipodi:cy="444.27438"
+       sodipodi:rx="12.679736"
+       sodipodi:ry="10.251702"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:start="0"
+       sodipodi:end="6.2621117"
+       sodipodi:open="true"
+       transform="matrix(1.1654181,0,0,0.97811874,-18.38514,354.13515)" />
+    <path
+       style="fill:none;stroke:#47a3da;stroke-width:4.29056501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 207.90127,789.12423 -38.71897,22.9629 26.64969,23.00084 -39.73933,23.8927"
+       id="path3162"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#47a3da;fill-opacity:1;stroke:none"
+       id="path3164"
+       sodipodi:cx="-295.81897"
+       sodipodi:cy="664.59949"
+       sodipodi:rx="66.35939"
+       sodipodi:ry="66.35939"
+       d="m -229.45958,664.59949 a 66.35939,66.35939 0 1 1 -0.0147,-1.39833"
+       sodipodi:start="0"
+       sodipodi:end="6.2621117"
+       sodipodi:open="true"
+       transform="matrix(0.70505051,0,0,0.70505051,267.13723,-574.86171)" />
+    <path
+       transform="matrix(1.0901991,0,0,0.9149885,-136.80718,-499.93264)"
+       sodipodi:open="true"
+       sodipodi:end="6.2621117"
+       sodipodi:start="0"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:ry="10.251702"
+       sodipodi:rx="12.679736"
+       sodipodi:cy="444.27438"
+       sodipodi:cx="193.97299"
+       id="path3166"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3168"
+       sodipodi:cx="193.97299"
+       sodipodi:cy="444.27438"
+       sodipodi:rx="12.679736"
+       sodipodi:ry="10.251702"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:start="0"
+       sodipodi:end="6.2621117"
+       sodipodi:open="true"
+       transform="matrix(1.0901991,0,0,0.9149885,-172.8621,-478.14539)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3170"
+       sodipodi:cx="193.97299"
+       sodipodi:cy="444.27438"
+       sodipodi:rx="12.679736"
+       sodipodi:ry="10.251702"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:start="0"
+       sodipodi:end="6.2621117"
+       sodipodi:open="true"
+       transform="matrix(1.0901991,0,0,0.9149885,-161.3231,-521.71988)" />
+    <path
+       transform="matrix(1.0901991,0,0,0.9149885,-125.26818,-543.50712)"
+       sodipodi:open="true"
+       sodipodi:end="6.2621117"
+       sodipodi:start="0"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:ry="10.251702"
+       sodipodi:rx="12.679736"
+       sodipodi:cy="444.27438"
+       sodipodi:cx="193.97299"
+       id="path3172"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3174"
+       d="m 86.41315,-136.59332 -36.21997,21.48081 24.92966,21.51631 -37.17447,22.35062"
+       style="fill:none;stroke:#ffffff;stroke-width:3.1609621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text3176"
+       y="-111.75769"
+       x="236.27988"
+       style="font-size:36.50469589000000070px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold"
+       xml:space="preserve"><tspan
+         id="tspan3178"
+         y="-111.75769"
+         x="236.27988"
+         sodipodi:role="line"
+         style="font-weight:normal;-inkscape-font-specification:Nova Flat">PyCon</tspan><tspan
+         id="tspan3180"
+         y="-75.252991"
+         x="236.27988"
+         sodipodi:role="line"
+         style="font-weight:normal;-inkscape-font-specification:Nova Flat">Ar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dfb129;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Slim;-inkscape-font-specification:Nova Slim"
+       x="260.85333"
+       y="-111.75769"
+       id="text3182"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="260.85333"
+         y="-111.75769"
+         id="tspan3184">2013</tspan><tspan
+         id="tspan3186"
+         sodipodi:role="line"
+         x="260.85333"
+         y="-75.252991">ROSARIO</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3188"
+       d="m 248.8985,-137.3086 0,62.6065"
+       style="fill:none;stroke:#47a3da;stroke-width:2.46406698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:36.50469589000000070px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dfb129;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Slim;-inkscape-font-specification:Nova Slim"
+       x="245.20285"
+       y="1078.6343"
+       id="text3190"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="245.20285"
+         y="1078.6343"
+         id="tspan3192">2013</tspan><tspan
+         id="tspan3194"
+         sodipodi:role="line"
+         x="245.20285"
+         y="1115.1389">ROSARIO</tspan></text>
+    <rect
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3196"
+       width="253.53008"
+       height="90.725548"
+       x="-17.568787"
+       y="1038.4209"
+       ry="14.624764" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text3198"
+       y="1078.6343"
+       x="217.74567"
+       style="font-size:36.50469589000000070px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Nova Flat;-inkscape-font-specification:Nova Flat"
+       xml:space="preserve"><tspan
+         id="tspan3200"
+         y="1078.6343"
+         x="217.74567"
+         sodipodi:role="line">PyCon</tspan><tspan
+         id="tspan3202"
+         y="1115.1389"
+         x="217.74567"
+         sodipodi:role="line">Ar</tspan></text>
+    <rect
+       ry="10.546908"
+       y="1042.3866"
+       x="-13.785522"
+       height="82.794022"
+       width="97.636787"
+       id="rect3204"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       transform="matrix(1.1654181,0,0,0.97811874,-178.15346,660.71608)"
+       sodipodi:open="true"
+       sodipodi:end="6.2621117"
+       sodipodi:start="0"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:ry="10.251702"
+       sodipodi:rx="12.679736"
+       sodipodi:cy="444.27438"
+       sodipodi:cx="193.97299"
+       id="path3206"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06364703;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06364703;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3208"
+       sodipodi:cx="193.97299"
+       sodipodi:cy="444.27438"
+       sodipodi:rx="12.679736"
+       sodipodi:ry="10.251702"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:start="0"
+       sodipodi:end="6.2621117"
+       sodipodi:open="true"
+       transform="matrix(1.1654181,0,0,0.97811874,-216.69602,684.00654)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06364703;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3210"
+       sodipodi:cx="193.97299"
+       sodipodi:cy="444.27438"
+       sodipodi:rx="12.679736"
+       sodipodi:ry="10.251702"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:start="0"
+       sodipodi:end="6.2621117"
+       sodipodi:open="true"
+       transform="matrix(1.1654181,0,0,0.97811874,-204.36086,637.42562)" />
+    <path
+       transform="matrix(1.1654181,0,0,0.97811874,-165.81832,614.13515)"
+       sodipodi:open="true"
+       sodipodi:end="6.2621117"
+       sodipodi:start="0"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:ry="10.251702"
+       sodipodi:rx="12.679736"
+       sodipodi:cy="444.27438"
+       sodipodi:cx="193.97299"
+       id="path3212"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06364703;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3214"
+       d="m 60.46809,1049.1242 -38.71897,22.9629 26.64969,23.0009 -39.73933,23.8927"
+       style="fill:none;stroke:#47a3da;stroke-width:4.29056501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       transform="matrix(-0.90328107,0,0,0.70505051,78.25925,-122.20872)"
+       sodipodi:open="true"
+       sodipodi:end="6.2621117"
+       sodipodi:start="0"
+       d="m -229.45958,664.59949 a 66.35939,66.35939 0 1 1 -0.0147,-1.39833"
+       sodipodi:ry="66.35939"
+       sodipodi:rx="66.35939"
+       sodipodi:cy="664.59949"
+       sodipodi:cx="-295.81897"
+       id="path3216"
+       style="color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3218"
+       d="m 351.05696,346.36749 -108.88557,0"
+       style="color:#000000;fill:none;stroke:#47a3da;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3220"
+       sodipodi:cx="193.97299"
+       sodipodi:cy="444.27438"
+       sodipodi:rx="12.679736"
+       sodipodi:ry="10.251702"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:start="0"
+       sodipodi:end="6.2621117"
+       sodipodi:open="true"
+       transform="matrix(-1.1488456,0,0,0.96420967,551.56046,-68.561338)" />
+    <path
+       transform="matrix(-1.1488456,0,0,0.96420967,589.55493,-45.602058)"
+       sodipodi:open="true"
+       sodipodi:end="6.2621117"
+       sodipodi:start="0"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:ry="10.251702"
+       sodipodi:rx="12.679736"
+       sodipodi:cy="444.27438"
+       sodipodi:cx="193.97299"
+       id="path3222"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(-1.1488456,0,0,0.96420967,577.39518,-91.520608)"
+       sodipodi:open="true"
+       sodipodi:end="6.2621117"
+       sodipodi:start="0"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:ry="10.251702"
+       sodipodi:rx="12.679736"
+       sodipodi:cy="444.27438"
+       sodipodi:cx="193.97299"
+       id="path3224"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3226"
+       sodipodi:cx="193.97299"
+       sodipodi:cy="444.27438"
+       sodipodi:rx="12.679736"
+       sodipodi:ry="10.251702"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:start="0"
+       sodipodi:end="6.2621117"
+       sodipodi:open="true"
+       transform="matrix(-1.1488456,0,0,0.96420967,539.40072,-114.47988)" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3.3310039;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 316.33214,314.32357 38.16839,22.63636 -26.27073,22.67376 39.17425,23.55296"
+       id="path3228"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat"
+       x="95.19754"
+       y="359.30951"
+       id="text3230"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="95.19754"
+         y="359.30951"
+         id="tspan3232">PyCon</tspan><tspan
+         sodipodi:role="line"
+         x="95.19754"
+         y="395.81421"
+         id="tspan3234">Ar</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3236"
+       y="359.30951"
+       x="117.771"
+       style="font-size:36.50469589000000070px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dfb129;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Slim;-inkscape-font-specification:Nova Slim"
+       xml:space="preserve"><tspan
+         id="tspan3238"
+         y="359.30951"
+         x="117.771"
+         sodipodi:role="line">2013</tspan><tspan
+         y="395.81421"
+         x="117.771"
+         sodipodi:role="line"
+         id="tspan3240">ROSARIO</tspan></text>
+    <path
+       style="fill:none;stroke:#47a3da;stroke-width:2.46406698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 107.81616,333.7586 0,62.6065"
+       id="path3242"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       transform="matrix(0.70505051,0,0,0.70505051,267.13723,-330.86171)"
+       sodipodi:open="true"
+       sodipodi:end="6.2621117"
+       sodipodi:start="0"
+       d="m -229.45958,664.59949 a 66.35939,66.35939 0 1 1 -0.0147,-1.39833"
+       sodipodi:ry="66.35939"
+       sodipodi:rx="66.35939"
+       sodipodi:cy="664.59949"
+       sodipodi:cx="-295.81897"
+       id="path3244"
+       style="fill:#47a3da;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3246"
+       d="m 38.60376,162.99339 c -6.64594,0 -12.17403,3.16461 -13.5,7.40625 4.70606,4.81853 10.43124,8.62548 16.84375,11.0625 6.01845,-1.01484 10.46875,-4.69584 10.46875,-9.09375 l 0,-0.21875 c -0.15848,-5.10238 -6.29154,-9.15625 -13.8125,-9.15625 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3248"
+       sodipodi:cx="193.97299"
+       sodipodi:cy="444.27438"
+       sodipodi:rx="12.679736"
+       sodipodi:ry="10.251702"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:start="0"
+       sodipodi:end="6.2621117"
+       sodipodi:open="true"
+       transform="matrix(1.0901991,0,0,0.9149885,-136.80718,-255.93264)" />
+    <path
+       transform="matrix(1.0901991,0,0,0.9149885,-161.3231,-277.71988)"
+       sodipodi:open="true"
+       sodipodi:end="6.2621117"
+       sodipodi:start="0"
+       d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+       sodipodi:ry="10.251702"
+       sodipodi:rx="12.679736"
+       sodipodi:cy="444.27438"
+       sodipodi:cx="193.97299"
+       id="path3250"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3252"
+       d="m 83.07251,97.86839 c -6.12315,0.96417 -10.6875,4.6767 -10.6875,9.125 0,5.18054 6.17803,9.375 13.8125,9.375 4.83222,0 9.0913,-1.67 11.5625,-4.21875 -3.77953,-5.78346 -8.80352,-10.65691 -14.6875,-14.28125 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3.1609621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 86.41315,107.40668 50.19318,128.88749 75.12284,150.4038 37.94837,172.75442"
+       id="path3254"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat"
+       x="236.27988"
+       y="132.24231"
+       id="text3256"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="236.27988"
+         y="132.24231"
+         id="tspan3258">PyCon</tspan><tspan
+         sodipodi:role="line"
+         x="236.27988"
+         y="168.74701"
+         id="tspan3260">Ar</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3262"
+       y="132.24231"
+       x="260.85333"
+       style="font-size:36.50469589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dfb129;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Slim;-inkscape-font-specification:Nova Slim"
+       xml:space="preserve"><tspan
+         id="tspan3264"
+         y="132.24231"
+         x="260.85333"
+         sodipodi:role="line">2013</tspan><tspan
+         y="168.74701"
+         x="260.85333"
+         sodipodi:role="line"
+         id="tspan3266">ROSARIO</tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#47a3da;stroke-width:2.46406698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 248.8985,106.6914 0,62.6065"
+       id="path3268"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
