@@ -15,8 +15,8 @@
    id="svg3440"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="carta-sponsors-03.svg"
-   inkscape:export-filename="/home/manuq/prog/PyConAr2013/diseño/carta-sponsors-04.png"
+   sodipodi:docname="carta-sponsors-03.pdf"
+   inkscape:export-filename="/home/manuq/prog/PyConAr2013/diseño/carta-sponsors-03.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -349,9 +349,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.80125326"
-     inkscape:cx="369.93152"
-     inkscape:cy="838.46457"
+     inkscape:zoom="1.1982312"
+     inkscape:cx="366.30116"
+     inkscape:cy="237.74722"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -374,7 +374,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2854,8 +2854,8 @@
            width="647.76837"
            id="rect13487" /></flowRegion><flowPara
          id="flowPara13491">*: Incluye Descuento solo para Individuos, Empresas, Cooperativas u ONG con menos de 25 empleados.</flowPara><flowPara
-         id="flowPara13495">***: Importe  Solo para Sponsors de PyCon Argentina 2009 a 2011, que confirmen antes del 31-05-2012 (importe 2011 + 25% por ajustes de costos). A partir de Agosto, adicional 3% mensual por costos finacieros.</flowPara><flowPara
-         id="flowPara13497">****: Incluye: Remera, Bolso/Carpeta, Certificado y demás materiales.</flowPara></flowRoot>    <flowRoot
+         id="flowPara13497">***: Importe sólo para Sponsors de PyCon Argentina 2012, que confirmen antes del 20-08-2013. A partir del 21-08-2013, 3% adicional por costos financieros.</flowPara><flowPara
+         id="flowPara6144">****: Incluye: Remera, Bolso/Carpeta, Certificado y demás materiales.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot13730"
        style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#dfb129;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81420118;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold"
