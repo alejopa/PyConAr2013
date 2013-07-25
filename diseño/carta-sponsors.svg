@@ -15,7 +15,7 @@
    id="svg3440"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="carta-sponsors.svg"
+   sodipodi:docname="carta-sponsors-01.pdf"
    inkscape:export-filename="/home/manuq/prog/PyConAr2013/diseño/carta-sponsors.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
@@ -327,7 +327,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.9691829"
      inkscape:cx="221.08282"
-     inkscape:cy="137.25884"
+     inkscape:cy="624.77068"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -353,7 +353,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -647,7 +647,7 @@
            height="258.27466"
            width="381.79739"
            id="rect5686" /></flowRegion><flowPara
-         id="flowPara5692">El evento es de entrada libre y gratuita, se realizará en los días 24 y 25 de Octubre del 2013 en Rosario, Provincia de Santa Fe. El mismi se desarrollará en el Centro Cultural Parque de España (CCPE), ubicado en la intersección de la calle Sarmiento y el Río Paraná. El objetivo es reunir a desarrolladores, estudiantes, entusiastas y empresarios del lenguaje de programación Python para contribuir con su crecimiento y con su divulgación. </flowPara><flowPara
+         id="flowPara5692">El evento, de entrada libre y gratuita, se realizará en los días 24 y 25 de Octubre del 2013 en Rosario, Provincia de Santa Fe. El mismi se desarrollará en el Centro Cultural Parque de España (CCPE), ubicado en la intersección de la calle Sarmiento y el Río Paraná. El objetivo es reunir a desarrolladores, estudiantes, entusiastas y empresarios del lenguaje de programación Python para contribuir con su crecimiento y con su divulgación. </flowPara><flowPara
          id="flowPara5705" /><flowPara
          id="flowPara5707">Estimamos una concurrencia de 500 personas (similar a la edición 2012 en Buenos Aires), entre las cuales se encuentran miembros de la comunidad del interior del país, visitantes regionales e invitados internacionales. Utilizaremos un Auditorio con capacidad para 500 personas, un túnel con capacidad aproximada de 137 personas, y el patio interno del CCPE para Exposiciones.</flowPara></flowRoot>    <rect
        y="293.2037"
