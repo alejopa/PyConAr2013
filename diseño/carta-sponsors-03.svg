@@ -15,7 +15,7 @@
    id="svg3440"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="carta-sponsors-03.pdf"
+   sodipodi:docname="carta-sponsors-03.svg"
    inkscape:export-filename="/home/manuq/prog/PyConAr2013/diseño/carta-sponsors-03.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
@@ -349,9 +349,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1982312"
-     inkscape:cx="366.30116"
-     inkscape:cy="237.74722"
+     inkscape:zoom="1.0954086"
+     inkscape:cx="560.35798"
+     inkscape:cy="162.76327"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -374,7 +374,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1679,20 +1679,6 @@
     </g>
     <g
        transform="matrix(1.25,0,0,-1.25,-17.89604,1710.7597)"
-       id="g8861">
-      <text
-         transform="matrix(1,0,0,-1,388.1,731.8)"
-         id="text8863">
-        <tspan
-           style="font-size:9px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
-           x="0 5.697 8.5860004 14.283 17.172001 22.868999 28.566"
-           y="0"
-           sodipodi:role="line"
-           id="tspan8865">$ 5.500</tspan>
-      </text>
-    </g>
-    <g
-       transform="matrix(1.25,0,0,-1.25,-17.89604,1710.7597)"
        id="g8867">
       <text
          transform="matrix(1,0,0,-1,460.9,731.8)"
@@ -1745,20 +1731,6 @@
            y="0"
            sodipodi:role="line"
            id="tspan8889">$ 9.800</tspan>
-      </text>
-    </g>
-    <g
-       transform="matrix(1.25,0,0,-1.25,-17.89604,1710.7597)"
-       id="g8891">
-      <text
-         transform="matrix(1,0,0,-1,388.1,705.7)"
-         id="text8893">
-        <tspan
-           style="font-size:9px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
-           x="0 5.697 8.5860004 14.283 17.172001 22.868999 28.566"
-           y="0"
-           sodipodi:role="line"
-           id="tspan8895">$ 5.900</tspan>
       </text>
     </g>
     <g
@@ -2891,5 +2863,29 @@
          id="rect5211"
          style="color:#000000;fill:none;stroke:#ff0000;stroke-width:1.70000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.80288887px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       x="467.11728"
+       y="796.0097"
+       id="text3507"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3509"
+         x="467.11728"
+         y="796.0097"
+         style="font-size:11.25px;font-weight:normal;-inkscape-font-specification:DejaVu Sans">$ 6.200</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3558"
+       y="828.6347"
+       x="467.11728"
+       style="font-size:10.80288887px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:11.25px;font-weight:normal;-inkscape-font-specification:DejaVu Sans"
+         y="828.6347"
+         x="467.11728"
+         id="tspan3560"
+         sodipodi:role="line">$ 5.500</tspan></text>
   </g>
 </svg>
