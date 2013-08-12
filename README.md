@@ -1,5 +1,5 @@
-24 y 25 de Octubre, PyConAr 2013 @ Rosaro!
-==========================================
+24 y 25 de Octubre, PyConAr 2013 @ Rosario!
+===========================================
 
 
 Medios de comunicación:
