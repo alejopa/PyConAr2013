@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.83146968"
-     inkscape:cx="925.48934"
-     inkscape:cy="1163.3484"
+     inkscape:zoom="0.2911526"
+     inkscape:cx="181.03977"
+     inkscape:cy="1148.3502"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1024"
      inkscape:window-height="541"
@@ -799,7 +799,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -908,7 +908,7 @@
        style="color:#000000;fill:#edf7eb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        style="color:#000000;fill:#3a5135;fill-opacity:0.22767855;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 792.93324,-345.06066 268.39656,0 -2,198.17265 -209.57321,0 0,-4 -56.82335,0 z"
+       d="m 792.93324,-375.06066 268.39656,0 -2,242.17265 -209.57321,0 0,-4 -56.82335,0 z"
        id="path3858"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
@@ -916,8 +916,8 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3817"
-       d="m 798.93324,-355.12233 268.39656,0 0,196.23432 -268.39656,0 z"
-       style="color:#000000;fill:#edf7eb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       d="m 798.93324,-385.12233 268.39656,0 0,238.23432 -268.39656,0 z"
+       style="color:#000000;fill:#e8f5c0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
      sodipodi:insensitive="true"
@@ -1265,7 +1265,7 @@
          sodipodi:open="true"
          sodipodi:end="6.2621117"
          sodipodi:start="0"
-         d="m -229.45958,664.59949 a 66.35939,66.35939 0 1 1 -0.0147,-1.39833"
+         d="m -229.45958,664.59949 c 0,36.64928 -29.71011,66.35939 -66.35939,66.35939 -36.64928,0 -66.35939,-29.71011 -66.35939,-66.35939 0,-36.64928 29.71011,-66.35939 66.35939,-66.35939 36.10434,0 65.58386,28.86473 66.34466,64.96106"
          sodipodi:ry="66.35939"
          sodipodi:rx="66.35939"
          sodipodi:cy="664.59949"
@@ -1286,7 +1286,7 @@
          sodipodi:cy="444.27438"
          sodipodi:rx="12.679736"
          sodipodi:ry="10.251702"
-         d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+         d="m 206.65273,444.27438 c 0,5.66186 -5.67691,10.25171 -12.67974,10.25171 -7.00282,0 -12.67973,-4.58985 -12.67973,-10.25171 0,-5.66186 5.67691,-10.2517 12.67973,-10.2517 6.8987,0 12.53155,4.45924 12.67692,10.03568"
          sodipodi:start="0"
          sodipodi:end="6.2621117"
          sodipodi:open="true"
@@ -1296,7 +1296,7 @@
          sodipodi:open="true"
          sodipodi:end="6.2621117"
          sodipodi:start="0"
-         d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
+         d="m 206.65273,444.27438 c 0,5.66186 -5.67691,10.25171 -12.67974,10.25171 -7.00282,0 -12.67973,-4.58985 -12.67973,-10.25171 0,-5.66186 5.67691,-10.2517 12.67973,-10.2517 6.8987,0 12.53155,4.45924 12.67692,10.03568"
          sodipodi:ry="10.251702"
          sodipodi:rx="12.679736"
          sodipodi:cy="444.27438"
@@ -1592,7 +1592,7 @@
        xml:space="preserve"
        id="flowRoot3774"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;color:#000000;fill:#60b0dd;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Round;-inkscape-font-specification:Nova Flat Bold"
-       transform="matrix(0.2900945,0,0,0.2900945,640.31125,-10.88955)"><flowRegion
+       transform="matrix(0.2900945,0,0,0.2900945,640.31125,-40.88955)"><flowRegion
          id="flowRegion3776"><rect
            id="rect3778"
            width="1025.2798"
@@ -1604,7 +1604,7 @@
          id="flowPara3786">Inscribite en:</flowPara><flowPara
          style="font-size:77.51126862px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#60b0dd;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold"
          id="flowPara3813">http://ar.pycon.org</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.2900945,0,0,0.2900945,640.31125,-50.88955)"
+       transform="matrix(0.38756814,0,0,0.38756814,514.36921,-133.25246)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Round;-inkscape-font-specification:Nova Flat Bold"
        id="flowRoot3866"
        xml:space="preserve"><flowRegion
@@ -1617,7 +1617,7 @@
            id="rect3870" /></flowRegion><flowPara
          id="flowPara3878"
          style="font-size:77.51126862px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold">¡IMPORTANTE!</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.2900945,0,0,0.2900945,640.31125,55.747083)"
+       transform="matrix(0.2900945,0,0,0.2900945,640.31125,25.747083)"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Round;-inkscape-font-specification:Nova Flat Bold"
        id="flowRoot3889"
        xml:space="preserve"><flowRegion
@@ -1631,7 +1631,22 @@
          id="flowPara3899"
          style="font-size:77.51126862px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold">Fecha límite:</flowPara><flowPara
          id="flowPara3901"
-         style="font-size:77.51126862px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold">20 de Octubre</flowPara></flowRoot>  </g>
+         style="font-size:77.51126862px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold">20 de Octubre</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3790"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Round;-inkscape-font-specification:Nova Flat Bold"
+       transform="matrix(0.2900945,0,0,0.2900945,640.31125,85.1239)"><flowRegion
+         id="flowRegion3792"><rect
+           id="rect3794"
+           width="1025.2798"
+           height="811.07916"
+           x="273.59579"
+           y="488.72681"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Round;-inkscape-font-specification:Nova Flat Bold" /></flowRegion><flowPara
+         style="font-size:77.51126861999999562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold"
+         id="flowPara3796">ENTRADA</flowPara><flowPara
+         style="font-size:77.51126861999999562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#47a3da;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold"
+         id="flowPara3798">LIBRE Y GRATUITA</flowPara></flowRoot>  </g>
   <g
      inkscape:label="texto"
      id="layer4"
