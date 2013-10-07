@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2792844"
-     inkscape:cx="566.67629"
-     inkscape:cy="392.12656"
+     inkscape:zoom="1.182311"
+     inkscape:cx="917.72611"
+     inkscape:cy="1334.964"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1024"
      inkscape:window-height="541"
@@ -804,7 +804,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     sodipodi:insensitive="true"
      style="display:inline"
      transform="translate(0,435.82711)"
      id="layer1"
@@ -906,6 +905,18 @@
        inkscape:connector-curvature="0"
        id="rect5061"
        d="m 205.56375,-395.90347 644.31803,0 0,268.55203 -316.01232,0 -6.14669,9.02522 -6.1467,-9.02522 -316.01232,0 z"
+       style="color:#000000;fill:#edf7eb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       style="color:#000000;fill:#3a5135;fill-opacity:0.22767855;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 792.93324,-345.06066 268.39656,0 -2,198.17265 -209.57321,0 0,-4 -56.82335,0 z"
+       id="path3858"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3817"
+       d="m 798.93324,-355.12233 268.39656,0 0,196.23432 -268.39656,0 z"
        style="color:#000000;fill:#edf7eb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
@@ -1242,7 +1253,6 @@
     </g>
   </g>
   <g
-     sodipodi:insensitive="true"
      style="display:inline"
      inkscape:label="contenido"
      id="layer5"
@@ -1255,7 +1265,7 @@
          sodipodi:open="true"
          sodipodi:end="6.2621117"
          sodipodi:start="0"
-         d="m -229.45958,664.59949 c 0,36.64928 -29.71011,66.35939 -66.35939,66.35939 -36.64928,0 -66.35939,-29.71011 -66.35939,-66.35939 0,-36.64928 29.71011,-66.35939 66.35939,-66.35939 36.10434,0 65.58386,28.86473 66.34466,64.96106"
+         d="m -229.45958,664.59949 a 66.35939,66.35939 0 1 1 -0.0147,-1.39833"
          sodipodi:ry="66.35939"
          sodipodi:rx="66.35939"
          sodipodi:cy="664.59949"
@@ -1276,7 +1286,7 @@
          sodipodi:cy="444.27438"
          sodipodi:rx="12.679736"
          sodipodi:ry="10.251702"
-         d="m 206.65273,444.27438 c 0,5.66186 -5.67691,10.25171 -12.67974,10.25171 -7.00282,0 -12.67973,-4.58985 -12.67973,-10.25171 0,-5.66186 5.67691,-10.2517 12.67973,-10.2517 6.8987,0 12.53155,4.45924 12.67692,10.03568"
+         d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
          sodipodi:start="0"
          sodipodi:end="6.2621117"
          sodipodi:open="true"
@@ -1286,7 +1296,7 @@
          sodipodi:open="true"
          sodipodi:end="6.2621117"
          sodipodi:start="0"
-         d="m 206.65273,444.27438 c 0,5.66186 -5.67691,10.25171 -12.67974,10.25171 -7.00282,0 -12.67973,-4.58985 -12.67973,-10.25171 0,-5.66186 5.67691,-10.2517 12.67973,-10.2517 6.8987,0 12.53155,4.45924 12.67692,10.03568"
+         d="m 206.65273,444.27438 a 12.679736,10.251702 0 1 1 -0.003,-0.21602"
          sodipodi:ry="10.251702"
          sodipodi:rx="12.679736"
          sodipodi:cy="444.27438"
@@ -1578,7 +1588,50 @@
            y="488.72681"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:Nova Round;-inkscape-font-specification:Nova Flat Bold" /></flowRegion><flowPara
          id="flowPara4070"
-         style="font-size:66.43823242px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold" /></flowRoot>  </g>
+         style="font-size:66.43823242px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3774"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;color:#000000;fill:#60b0dd;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Round;-inkscape-font-specification:Nova Flat Bold"
+       transform="matrix(0.2900945,0,0,0.2900945,640.31125,-10.88955)"><flowRegion
+         id="flowRegion3776"><rect
+           id="rect3778"
+           width="1025.2798"
+           height="811.07916"
+           x="273.59579"
+           y="488.72681"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#60b0dd;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Round;-inkscape-font-specification:Nova Flat Bold" /></flowRegion><flowPara
+         style="font-size:77.51126861999999562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold"
+         id="flowPara3786">Registración en:</flowPara><flowPara
+         style="font-size:77.51126861999999562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#60b0dd;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold"
+         id="flowPara3813">http://ar.pycon.org</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.2900945,0,0,0.2900945,640.31125,-50.88955)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Round;-inkscape-font-specification:Nova Flat Bold"
+       id="flowRoot3866"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3868"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Round;-inkscape-font-specification:Nova Flat Bold"
+           y="488.72681"
+           x="273.59579"
+           height="811.07916"
+           width="1025.2798"
+           id="rect3870" /></flowRegion><flowPara
+         id="flowPara3878"
+         style="font-size:77.51126862px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold">¡IMPORTANTE!</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.2900945,0,0,0.2900945,640.31125,55.747083)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Round;-inkscape-font-specification:Nova Flat Bold"
+       id="flowRoot3889"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3891"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Round;-inkscape-font-specification:Nova Flat Bold"
+           y="488.72681"
+           x="273.59579"
+           height="811.07916"
+           width="1025.2798"
+           id="rect3893" /></flowRegion><flowPara
+         id="flowPara3899"
+         style="font-size:77.51126862px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold">Fecha límite:</flowPara><flowPara
+         id="flowPara3901"
+         style="font-size:77.51126862px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Nova Flat;-inkscape-font-specification:Nova Flat Bold">20 de Octubre</flowPara></flowRoot>  </g>
   <g
      inkscape:label="texto"
      id="layer4"
@@ -4136,10 +4189,10 @@
        transform="matrix(0.78583196,0,0,0.78583196,-17.682605,221.54583)" />
   </g>
   <g
-     sodipodi:insensitive="true"
      inkscape:label="marco"
      id="layer2"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <rect
        style="color:#000000;fill:none;stroke:#bce0b3;stroke-width:20.14599228;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4962"
